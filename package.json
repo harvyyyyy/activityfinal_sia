@@ -1,0 +1,25 @@
+{
+  "name": "vincoy.sia",
+  "version": "1.0.0",
+  "description": "Classroom Activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/harvyyyyy/activityfinal_sia#readme",
+  "bugs": {
+    "url": "https://github.com/harvyyyyy/activityfinal_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harvyyyyy/activityfinal_sia.git"
+  },
+  "license": "ISC",
+  "author": "Vincoy, Christian Harvy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
